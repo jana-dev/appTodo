@@ -15,7 +15,7 @@ h1{
 }
 .tarefas{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    height: 60vh;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     overflow: auto;
